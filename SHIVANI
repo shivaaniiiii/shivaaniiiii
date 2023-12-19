@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>TITRE</title>
+
+        <meta name="keywords" content="référencement, balise meta keywords, code creatif, ESAC" />
+		<meta name="description" content="A description.">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <script src="lib/jquery-3.3.1.min.js"></script>
+        <script src="lib/p5.js"></script>
+        <script src="script.js"></script>
+	</head>
+
+    
+	<div id="images">
+		<img src="medias/vincent.jpg" alt="Image 1">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/JuZsnDz7v2w?si=Ydl_S0WzjPe6IDB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<img src="medias/ChatGPT-1536x864.jpg" alt="Image 3">
+	</div>
+	
+
+<body>
+
+<div id="article">
+	
+<div  id="title">
+    
+<h1> ✶ Alan Turing, un visionnaire précieux pour faire face à ChatGPT et compagnie : </h1>
+
+
+<h3 id="vincent">(<a href="https://usbeketrica.com/fr/author/vincent-edin">Vincent Edin</a>) - 2 October 2023</h3>
+
+
+<p id="texte1">
+	<p id="texte1">
+		Elsa Boyer consacre une bio au père de l’intelligence artificielle (<a href="http://editionslesperegrines.fr/">Turing</a>, Les Pérégrines 2023), dans laquelle elle s’interroge sur son legs. En croisant histoire, critique des médias et théorie queer, elle dresse un portrait sensible et incroyablement actuel du mathématicien britannique.<br>
+	
+		Impossible de séparer l’homme du mathématicien. En refermant (<a href="https://usbeketrica.com/fr/article/(Turing,%20Les%20Pe%CC%81re%CC%81grines%202023)">Turing</a>), (Les Pérégrines, 2023), il n’est plus possible de dissocier l’avant-gardisme incommensurable du cryptologue britannique de son procès et (<a href="https://www.independent.co.uk/life-style/alan-turing-new-ps50-banknote-gay-codebreaker-mathematician-sexuality-pardon-a9005086.html">sa condamnation en 1952 pour gross indecency</a>), (« atteinte aux mœurs », en réalité on lui reprochait son homosexualité). Pour éviter la prison, Turing accepte la castration chimique. La prise d’œstrogènes lui fait pousser des seins. Cette nouvelle apparence, et le nouveau regard que le monde porte sur lui, il ne les supporte pas.(<a href="https://www.liberation.fr/plus/speciaux-cahier-ete/le-jour-ou-alan-turing-a-croque-la-pomme-20210825_2DMMFH4SRBEGRCBFHHQOU4RAU4/">Il se suicide le 8 juin 1954</a>), à 41 ans, en mangeant une pomme rouge remplie de cyanure – peut-être une réminiscence de Blanche Neige qu’il avait vu à sa sortie en 1938 et qui l’avait très vivement marqué).
+	</p>
+	
+	
+</p>
+
+
+<h2>★ Un lanceur d’alerte pas pris au sérieux</h2>
+<p>
+	<p>
+		Docteure en philosophie, écrivaine et traductrice, Elsa Boyer n’écrit pas pour venger Turing ou vilipender l’homophobie rétrograde de la société d’alors, mais pour nous rappeler que le génie des maths était un lanceur d’alerte que nous n’avons pas suffisamment pris au sérieux.<br><br>
+	
+		« Les questions de genre sont intimement liées à la façon dont Turing conçoit la technologie et les machines »<br>
+		Elsa Boyer, autrice du livre Turing (Les Pérégrines, 2023)<br><br>
+		
+		Turing n’est pas Victor Frankenstein, il n’est pas dépassé par ses propres découvertes. Au contraire, il voit bien les biais de cette histoire machinique, une histoire d’hommes : « Turing perturbe une certaine histoire du numérique construite autour d’une suite d’innovations continues produites par des figures d’inventeurs masculins et blancs. Même s’il est évident qu’il ne la contredit pas, étant lui-même un homme blanc, il l’interroge aussi par sa conception de l’ordinateur et de l’intelligence artificielle. Car, là aussi, les questions de genre sont présentes, déterminantes même et intimement liées à la façon dont il conçoit la technologie et les machines ».<br><br>
+		
+		Turing n’était pas non plus un grand progressiste désireux d’araser les inégalités par une lutte des classes triomphantes. Mais il sait tout de la portée genrée de ces découvertes : « Turing est lucide sur le type de gestes, de travail qu’on fait accomplir aux filles, et il compare leur sort à celui des maîtres, puisque le calculateur finira par prendre en charge les fonctions des un.es et des autres ».<br><br>
+		
+		Et l’autrice de voir que ce biais originel n’a jamais été corrigée : <a href="https://usbeketrica.com/fr/article/mais-qui-es-tu-au-juste-siri">Siri et Alexa</a>, assistants vocaux aux airs d’auxiliaires de vie moderne, sont encore et toujours des femmes (du moins par défaut). Une histoire genrée et socialement marquée, puisque Boyer écrit plus loin à propos des dérives engendrées par l’automatisation : « Des périls que Turing avait bien identifiés quand il épinglait les ruses des ‘maîtres’ pour conserver leurs emplois qu’ils auront eux-mêmes contribués à automatiser en testant d’abord ces possibilités sur les tâches des domestiques ».<br><br>
+		
+		L’origine de l’informatique porte donc en germes des biais qu’on trouve encore renforcés soixante-dix ans plus tard. L’écriture du livre d’Elsa Boyer rend compte de cette diachronie, l’autrice se mettant en scène en se créant un compte <a href="https://usbeketrica.com/fr/article/mira-murati-la-face-cachee-et-moderee-d-openai">OpenAI</a>, <a href="https://usbeketrica.com/fr/article/les-predictions-de-l-intelligence-artificielle-chatgpt-pour-2023">demandant à ChatGPT</a> ce qu’il peut lui dire d’Alan Turing, explorant tout ce que notre quotidien comporte de traces de l’œuvre du britannique.
+	</p>
+	
+	
+</p>
+<h2>★ Différence fatale</h2>
+
+<p>
+	La brève vie de Turing fut très remplie : étudiant brillant avec les chiffres, il n’est pas reconnu par ses professeurs qui prisent les humanités classiques et échoue à intégrer Trinity College (il doit se contenter de King’s College). Là, il s’épanouit, obtient une bourse pour sa thèse et développe des travaux remarquables sur le super calcul. Son statut change pendant la seconde guerre mondiale, lors de laquelle il devient une icône en décryptant des milliers de messages de la machine Enigma utilisée par l’armée allemande, facilitant considérablement le travail des alliés. Pour d’évidentes raisons de confidentialité, cela ne sera pas su de son vivant, mais révélé dans les années 1970. La Reine Élisabeth II le reconnaîtra d’ailleurs en héros de guerre avec (<a href="https://www.lefigaro.fr/international/2013/12/24/01003-20131224ARTFIG00242-60-ans-apres-elizabeth-ii-accorde-sa-grace-au-mathematicien-alan-turing.php">grâce posthume en 2013</a>). <br><br>
+
+
+Il ne s’arrête pas là et, dès 1943, conçoit (<a href="https://www.turing.org.uk/sources/delilah.html">une machine capable de coder la voix, Delilah</a>). Turing se plonge dans ce genre de travaux précisément pour masquer les frontières entre les voix de femmes et d’hommes, pour indifférencier les sexes, peut-être pour qu’on lui fiche la paix avec sa différence. Une différence dont il subodorait que tôt ou tard elle lui serait fatale, comme il l’écrit dans une lettre : « J’ai bien peur qu’à l’avenir on n’utilise ce syllogisme : Turing croit que les machines pensent. Turing couche avec des hommes. Donc les machines ne pensent pas. Désespérément vôtre, Alan ».
+
+</p>
+
+<p>
+	Il le savait, que l’ordre dominant le rattraperait. Est-ce pour cela qu’il courait autant ? Turing pratiquait la course à pied en compétition, finit 2e (en 2h46) lors d’un marathon et, sans une blessure à la hanche, aurait sans doute intégré l’équipe britannique aux Jeux Olympiques de Londres en 1948.<br><br>
+
+
+	« Aucune autre figure fondatrice du numérique n’a ainsi vu ses données personnelles répandues sur la place publique » Elsa Boyer, autrice du livre Turing (Les Pérégrines, 2023).<br><br>
+
+	
+	Après des années à avoir peur, il affiche franchement son homosexualité et ses relations. En 1950, il est à l’acmé de sa gloire avec son fameux test de la machine intelligente. Il pense peut-être qu’il n’est plus possible de l’inquiéter. Quand il est cambriolé en 1952, il porte plainte et l’inculpé dénonce son complice, un ancien amant de Turing qui confesse cette relation. De quoi envoyer le mathématicien devant un tribunal. 
+	
+</p>
+
+
+<p>
+	Son procès se tient dans un contexte de guerre froide et de psychose autour de l’espionnage industriel, ce qui lui confèrera une médiatisation insupportable pour Turing. À ce propos, laissons la conclusion à Elsa Boyer : « La grande singularité de Turing, (…) c’est aussi et surtout qu’aucune autre figure fondatrice du numérique n’a ainsi vu ses données personnelles répandues sur la place publique, comme ce fut le cas lors du procès concernant sa sexualité. (…) À un moment où le numérique imprègne tous les aspects de nos vies professionnelles et affectives, promettant de les augmenter grâce à une série de services toujours plus individualisés, se tourner vers Turing peut nous aider à saisir toutes les ambivalences de notre situation par rapport à ces espèces compagnes que sont devenus les ordinateurs, les smartphones ou les enceintes connectées ».
+
+
+</p>
+
+</div>
+		
+
+</div>	
+</body>
+<body class="motif-background">
+</body>
+
+</html>
+  
+
